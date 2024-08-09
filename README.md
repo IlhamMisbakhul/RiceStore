@@ -3,7 +3,7 @@
 ## Java Simpe Cashier App
 This is a simple Store management project using Java language. This project is really good if you wanted to use it for a college project, if yout university was using Java to teach you. You can clone this project if you are interested. FYI, this project is using MySQL for the databases, so you need to install MySQL to your PC first and every text that are displayed was using Indonesian, so you have to translate that to English if you're not from Indonesia, but it's a good strt for your project.
 
-## MySQL Installation Tutorial 
+## MySQL to BlueJ Connection Tutorial 
 
 Dowload the MySQL file - https://drive.google.com/drive/folders/1hPvghhKRFB_kXL1yiRAWjK5BHQ_emLQ2?usp=drive_link<br>
 Installation video will be available on Monday, August 12 2024
