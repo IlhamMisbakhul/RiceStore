@@ -6,7 +6,7 @@ This is a simple Store management project using Java language. This project is r
 ## MySQL Installation Tutorial 
 
 Dowload the MySQL file - https://drive.google.com/drive/folders/1hPvghhKRFB_kXL1yiRAWjK5BHQ_emLQ2?usp=drive_link<br>
-Installation video coming soon
+Installation video will be available on Monday, August 12 2024
 
 ## Additional
 If you found any bug, feel free to commit and create a new branch, and you can do pull request to help more people. Thank you so much for visiting my code, have a nice day.
