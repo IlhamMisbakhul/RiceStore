@@ -6,7 +6,11 @@ This is a simple Store management project using Java language. This project is r
 ## MySQL to BlueJ Connection Tutorial 
 
 Dowload the MySQL file - https://drive.google.com/drive/folders/1hPvghhKRFB_kXL1yiRAWjK5BHQ_emLQ2?usp=drive_link<br>
-Installation video will be available on Monday, August 12 2024
+
+Instalalation video<br>
+<a href="https://www.youtube.com/watch?v=MS8O6QjoF54" target="_blank">
+<img src="http://img.youtube.com/vi/MS8O6QjoF54/mqdefault.jpg" alt="Java and MySQL Connection Using BlueJ" border="10"/>
+</a>
 
 ## Additional
 If you found any bug, feel free to commit and create a new branch, and you can do pull request to help more people. Thank you so much for visiting my code, have a nice day.
